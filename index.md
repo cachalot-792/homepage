@@ -1,3 +1,2 @@
-#Home  
-明日の天気  
-7つの大罪
+# Home  
+[7つの大罪](/7deadlysins.html)
